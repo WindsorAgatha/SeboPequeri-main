@@ -1,0 +1,19 @@
+Pomelo EF mais recente:                   dotnet add package Pomelo.EntityFrameworkCore.MySql --version 8.0.2
+Microsoft Core Design:                    dotnet add package Microsoft.EntityFrameworkCore.Design --version 8.0.4
+dotnet tool:                              dotnet tool install --global dotnet-ef  
+
+***********************
+Configuração do program.cs:
+
+string? mySqlConnection = builder.Configuration.GetConnectionString("DefaultConnection");
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+options.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection)));
+
+***********************
+
+migração:
+
+ dotnet ef migrations add Initial --context AppDbContext
+ dotnet ef database  update 
+dotnet ef migrations remove

@@ -1,0 +1,209 @@
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\appsettings.json
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\SeboPequeri.exe
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\SeboPequeri.deps.json
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\SeboPequeri.runtimeconfig.json
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\SeboPequeri.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\SeboPequeri.pdb
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\SeboPequeri.csproj.AssemblyReference.cache
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\SeboPequeri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\SeboPequeri.AssemblyInfoInputs.cache
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\SeboPequeri.AssemblyInfo.cs
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\SeboPequeri.csproj.CoreCompileInputs.cache
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\SeboPequeri.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\SeboPequeri.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\staticwebassets\msbuild.SeboPequeri.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\staticwebassets\msbuild.build.SeboPequeri.props
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SeboPequeri.props
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SeboPequeri.props
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\scopedcss\bundle\SeboPequeri.styles.css
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\SeboPequeri.csproj.CopyComplete
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\SeboPequeri.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\refint\SeboPequeri.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\SeboPequeri.pdb
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\SeboPequeri.genruntimeconfig.cache
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\ref\SeboPequeri.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Humanizer.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hevertonvp\Desktop\sebo-sonho-das-estantes-api\SeboPequeri\obj\Debug\net8.0\SeboPequeri.sourcelink.json
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\SeboPequeri.csproj.AssemblyReference.cache
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\SeboPequeri.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\SeboPequeri.AssemblyInfoInputs.cache
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\SeboPequeri.AssemblyInfo.cs
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\SeboPequeri.csproj.CoreCompileInputs.cache
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\SeboPequeri.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\SeboPequeri.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\SeboPequeri.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\refint\SeboPequeri.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\SeboPequeri.pdb
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\appsettings.json
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\SeboPequeri.exe
+C:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\SeboPequeri.deps.json
+C:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\SeboPequeri.runtimeconfig.json
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\SeboPequeri.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\SeboPequeri.pdb
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Humanizer.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Mono.TextTemplating.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\MySqlConnector.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\System.CodeDom.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\System.Composition.Convention.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\System.Composition.Hosting.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\System.Composition.Runtime.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\System.Composition.TypedParts.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\staticwebassets\msbuild.SeboPequeri.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\staticwebassets\msbuild.build.SeboPequeri.props
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SeboPequeri.props
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SeboPequeri.props
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\scopedcss\bundle\SeboPequeri.styles.css
+C:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\SeboPequ.ECA55D12.Up2Date
+C:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\SeboPequeri.genruntimeconfig.cache
+C:\Users\Agatha windsor\Desktop\SeboPequeri-main\obj\Debug\net8.0\ref\SeboPequeri.dll
